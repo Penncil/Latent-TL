@@ -1,5 +1,5 @@
 ---
-title: "Demostration of Latent-TL Pipeline Using Synthetic Data"
+title: "Demonstration of Latent-TL Pipeline Using Synthetic Data"
 output: html_document
 date: "2024-03-25"
 ---
